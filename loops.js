@@ -30,4 +30,8 @@ function doWhileLoop(array) {
   while (array.length > 0 && maybeTrue()) {
   } 
   return array
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2aa59001d998567cc17b590630d8e447ab26502a
